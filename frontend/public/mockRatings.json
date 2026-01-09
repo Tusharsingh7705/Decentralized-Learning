@@ -1,0 +1,38 @@
+[
+  {
+    "providerName": "Alice Johnson",
+    "providerPhoto": "https://i.pravatar.cc/150?img=1",
+    "skill": "Solidity Development",
+    "rating": 5,
+    "comment": "Excellent session! Alice explained smart contract security very clearly.",
+    "timestamp": "2025-10-05T10:30:00Z",
+    "onChainTxId": "0x1234567890abcdef1234567890abcdef12345678"
+  },
+  {
+    "providerName": "Bob Smith",
+    "providerPhoto": "https://i.pravatar.cc/150?img=2",
+    "skill": "React & Web3",
+    "rating": 4,
+    "comment": "Great teacher, very patient and knowledgeable about DApp development.",
+    "timestamp": "2025-10-04T14:15:00Z",
+    "onChainTxId": "0xabcdef1234567890abcdef1234567890abcdef12"
+  },
+  {
+    "providerName": "Carol Davis",
+    "providerPhoto": "https://i.pravatar.cc/150?img=3",
+    "skill": "Smart Contract Auditing",
+    "rating": 5,
+    "comment": "Learned so much about security best practices. Highly recommended!",
+    "timestamp": "2025-10-03T16:45:00Z",
+    "onChainTxId": null
+  },
+  {
+    "providerName": "Emma Wilson",
+    "providerPhoto": "https://i.pravatar.cc/150?img=5",
+    "skill": "WebRTC Integration",
+    "rating": 4,
+    "comment": "Good session on peer-to-peer connections. Very practical examples.",
+    "timestamp": "2025-10-02T11:00:00Z",
+    "onChainTxId": "0x9876543210fedcba9876543210fedcba98765432"
+  }
+]
