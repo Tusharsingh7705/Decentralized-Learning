@@ -1,0 +1,42 @@
+[
+  {
+    "tokenId": "001",
+    "title": "Solidity Smart Contracts Mastery",
+    "description": "Successfully completed advanced Solidity development course covering security best practices and gas optimization.",
+    "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=400&h=300&fit=crop",
+    "providerName": "Alice Johnson",
+    "issueDate": "2025-10-01T10:00:00Z",
+    "txHash": "0x1a2b3c4d5e6f7890abcdef1234567890abcdef12",
+    "ipfsLink": "https://ipfs.io/ipfs/QmExample1234567890"
+  },
+  {
+    "tokenId": "002",
+    "title": "React & Web3 Integration",
+    "description": "Completed comprehensive training on building decentralized applications with React and ethers.js.",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400&h=300&fit=crop",
+    "providerName": "Bob Smith",
+    "issueDate": "2025-09-28T14:30:00Z",
+    "txHash": "0xabcdef1234567890abcdef1234567890abcdef12",
+    "ipfsLink": "https://ipfs.io/ipfs/QmExample0987654321"
+  },
+  {
+    "tokenId": "003",
+    "title": "WebRTC Peer-to-Peer Communication",
+    "description": "Mastered real-time communication protocols and implemented live video sessions using WebRTC.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=300&fit=crop",
+    "providerName": "Emma Wilson",
+    "issueDate": "2025-09-25T16:45:00Z",
+    "txHash": "0x9876543210fedcba9876543210fedcba98765432",
+    "ipfsLink": "https://ipfs.io/ipfs/QmExample5555555555"
+  },
+  {
+    "tokenId": "004",
+    "title": "Smart Contract Security Auditing",
+    "description": "Learned industry-standard security practices and vulnerability detection in smart contracts.",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&h=300&fit=crop",
+    "providerName": "Carol Davis",
+    "issueDate": "2025-09-20T11:20:00Z",
+    "txHash": "0xfedcba9876543210fedcba9876543210fedcba98",
+    "ipfsLink": "https://ipfs.io/ipfs/QmExample7777777777"
+  }
+]
