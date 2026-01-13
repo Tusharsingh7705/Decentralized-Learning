@@ -3,100 +3,90 @@ node_modules/
 /.pnp
 .pnp.js
 
-# Testing
-/coverage
-
-# Production
-/build
-/dist
-
-# Misc
-.DS_Store
+# Environment variables
 .env
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
+!.env.example
+
+# Build and Distribution
+/frontend/dist
+/frontend/build
+/backend/dist
+/backend/build
+/contracts/dist
+/contracts/build
+
+
+# Hardhat
+/contracts/cache
+/contracts/artifacts
+/contracts/typechain-types
+/typechain-types
 
 # Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+lerna-debug.log*
+*.log
 
-# IDE
+# IDE and Editor
 .idea/
 .vscode/
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
+*.swp
+*.swo
+*.swn
+*~
+.DS_Store
+Thumbs.db
 
-# Hardhat
-/cache
-/artifacts
-/typechain-types
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 
-# Environment variables
-.env*
-!.env.example
+# Testing
+/coverage
+.nyc_output
 
-# Local development
-development.env
-
-# Local Netlify folder
-.netlify
-
-# Debug logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# Cache directories
+.eslintcache
+.npm
+.yarn/cache
+.yarn/install-state.gz
 
 # Optional npm cache directory
 .npm
 
-# Optional eslint cache
-.eslintcache
+# Vite
+.vite
 
-# Optional REPL history
-.node_repl_history
-
-# Output of 'npm pack'
-*.tgz
-
-# Yarn Integrity file
-.yarn-integrity
-
-# dotenv environment variables file
-.env
-
-# next.js
-.next/
-out/
-
-# vercel
-.vercel
-
-# typescript
+# TypeScript
 *.tsbuildinfo
 next-env.d.ts
 
 # Vercel
 .vercel
 
-# Hardhat
-/cache/
-/artifacts/
-/typechain-types/
-
-# IDE specific files
-.idea/
-.vscode/
-*.swp
-*.swo
-
-# Local development files
+# Local development
+.netlify
+development.env
 *.local
+
+# Misc
+.yarn-integrity
+dist/
+build/
 
 # Logs
 logs
