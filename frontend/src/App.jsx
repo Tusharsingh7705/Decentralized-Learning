@@ -14,7 +14,7 @@ import Wallet from "../src/pages/Wallet.jsx";
 
 
 // Learner
-import LearnerProfile from "../src/pages/learner/learnerProfile.jsx";
+import LearnerProfile from "../src/pages/learner/LearnerProfile.jsx";
 import LearnerSignup from "../src/pages/learner/LearnerSignup.jsx";
 import LearnerLogin from "../src/pages/learner/LearnerLogin.jsx";
 import Dashboard from "../src/pages/learner/Dashboard.jsx";
