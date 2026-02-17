@@ -24,6 +24,7 @@
     <a href="#tech-stack" style="background-color: #e2e8f0; color: #2d3748; padding: 0.8em 1.5em; border-radius: 6px; text-decoration: none; font-weight: 600; margin: 0.5em; display: inline-block;">🛠️ Tech Stack</a>
   </div>
 </div>
+## Live - https://decentralized-learning-rt11.vercel.app/
 
 ## ✨ Key Features <a id="features"></a>
 
@@ -83,7 +84,7 @@
     </li>
   </ul>
 </div>
-## Live - https://decentralized-learning-rt11.vercel.app/
+
 
 ### 👨‍💼 For Administrators
 <div style="background: #f8fafc; padding: 1.5rem; border-radius: 10px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);">
